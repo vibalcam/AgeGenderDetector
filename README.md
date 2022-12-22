@@ -1,5 +1,7 @@
 #  Age-Gender Detector
 
+Deep Learning (Convolutional Neural Network) model to predict the age and gender from face images (UTKFace dataset), achieving 0.92 test gender accuracy and 8.68 test age RMSE
+
 - [Age-Gender Detector](#age-gender-detector)
   - [Data](#data)
     - [Data Explanation](#data-explanation)
